@@ -1,2 +1,4 @@
 *.png
 *.jpg
+
+!Expedition_alpha/Images/penguin.jpg
